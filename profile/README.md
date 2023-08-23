@@ -1,6 +1,6 @@
     Name: ReverbLand Research Lab
     Funded: 2001 (Poland)
-    Owner: Daniel Gorny
+    Owner: Daniel Gorny (@reverbrick)
     Brand: PlayableElectronics
 
 Hardware
